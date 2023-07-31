@@ -9,6 +9,7 @@ public class Demo3 {
 	public static void fruits(String sweet, String sour){
                sweet="apple";
 		sour="lemon";
+		sweet="banana";//ayo
 		
 	}
 
